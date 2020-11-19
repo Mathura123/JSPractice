@@ -30,4 +30,3 @@ for(let plotNo = 0; plotNo< 25; plotNo++)
     let areaInAcre = convertSqFtToAc(areaInSqFt);
     console.log("Area in acres: " + areaInAcre);
 }
- 
