@@ -1,4 +1,2 @@
-/Sequences/node_modules/
-/Sequences/package-lock.json
-/IfElse/node_modules/
-/IfElse/package-lock.json
+**/node_modules/
+**/package-lock.json
