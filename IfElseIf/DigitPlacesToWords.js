@@ -1,4 +1,3 @@
-process = require('process');
 const io = require('console-read-write');
 async function AskNo() {
     console.log("Enter 1 or 10 or 100 or 1000")
